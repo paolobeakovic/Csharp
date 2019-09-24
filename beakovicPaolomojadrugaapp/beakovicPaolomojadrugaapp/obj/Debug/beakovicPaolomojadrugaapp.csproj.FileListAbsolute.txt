@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\beakovicPaolomojadrugaapp\beakovicPaolomojadrugaapp\bin\Debug\beakovicPaolomojadrugaapp.exe.config
+C:\Users\3.D\source\repos\beakovicPaolomojadrugaapp\beakovicPaolomojadrugaapp\bin\Debug\beakovicPaolomojadrugaapp.exe
+C:\Users\3.D\source\repos\beakovicPaolomojadrugaapp\beakovicPaolomojadrugaapp\bin\Debug\beakovicPaolomojadrugaapp.pdb
+C:\Users\3.D\source\repos\beakovicPaolomojadrugaapp\beakovicPaolomojadrugaapp\obj\Debug\beakovicPaolomojadrugaapp.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\beakovicPaolomojadrugaapp\beakovicPaolomojadrugaapp\obj\Debug\beakovicPaolomojadrugaapp.Form1.resources
+C:\Users\3.D\source\repos\beakovicPaolomojadrugaapp\beakovicPaolomojadrugaapp\obj\Debug\beakovicPaolomojadrugaapp.Properties.Resources.resources
+C:\Users\3.D\source\repos\beakovicPaolomojadrugaapp\beakovicPaolomojadrugaapp\obj\Debug\beakovicPaolomojadrugaapp.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\beakovicPaolomojadrugaapp\beakovicPaolomojadrugaapp\obj\Debug\beakovicPaolomojadrugaapp.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\beakovicPaolomojadrugaapp\beakovicPaolomojadrugaapp\obj\Debug\beakovicPaolomojadrugaapp.exe
+C:\Users\3.D\source\repos\beakovicPaolomojadrugaapp\beakovicPaolomojadrugaapp\obj\Debug\beakovicPaolomojadrugaapp.pdb
